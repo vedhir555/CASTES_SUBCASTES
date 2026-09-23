@@ -998,6 +998,7 @@
       "name": "Hindu Sindhi",
       "name_gu": "હિંદુ સિંધી",
       "category": "General",
+      "villageOnly": false,
       "also_known_as": [
         "Amil Sindhi",
         "Bhaiband Sindhi",
@@ -1106,6 +1107,7 @@
       "name": "Parsi",
       "name_gu": "પારસી",
       "category": "General",
+      "villageOnly": false,
       "also_known_as": [
         "Zoroastrian"
       ],
@@ -1122,6 +1124,7 @@
       "name": "Bene Israel (Jew)",
       "name_gu": "બેને ઇઝરાઈલ (યહૂદી)",
       "category": "General",
+      "villageOnly": false,
       "also_known_as": [
         "Jew"
       ],
@@ -1136,6 +1139,7 @@
       "name": "Christian",
       "name_gu": "ખ્રિસ્તી",
       "category": "General",
+      "villageOnly": false,
       "also_known_as": [
         "Catholic",
         "Protestant",
@@ -1215,6 +1219,7 @@
       "name": "Jain",
       "name_gu": "જૈન",
       "category": "Jain",
+      "villageOnly": false,
       "also_known_as": [],
       "regions": [
         "Gujarat",
@@ -1394,6 +1399,7 @@
       "name": "Memon",
       "name_gu": "મેમણ",
       "category": "Muslim",
+      "villageOnly": false,
       "also_known_as": [
         "Halai Memon",
         "Kutchi Memon",
@@ -1411,6 +1417,7 @@
       "name": "Khoja",
       "name_gu": "ખોજા",
       "category": "Muslim",
+      "villageOnly": false,
       "also_known_as": [
         "Nizari Ismaili",
         "Aga Khani",
@@ -1427,6 +1434,7 @@
       "name": "Dawoodi Bohra",
       "name_gu": "દાઉદી બોહ્રા",
       "category": "Muslim",
+      "villageOnly": false,
       "also_known_as": [
         "Daudi Bohra"
       ],
@@ -1442,6 +1450,7 @@
       "name": "Sulaymani Bohra",
       "name_gu": "સુલૈમાની બોહ્રા",
       "category": "Muslim",
+      "villageOnly": false,
       "also_known_as": [],
       "regions": [
         "Surat",
@@ -1454,6 +1463,7 @@
       "name": "Alvi Bohra",
       "name_gu": "અલ્વી બોહ્રા",
       "category": "Muslim",
+      "villageOnly": false,
       "also_known_as": [],
       "regions": [
         "Vadodara",
@@ -1466,6 +1476,7 @@
       "name": "Hafizi Bohra",
       "name_gu": "હાફ઼ઝી બોહ્રા",
       "category": "Muslim",
+      "villageOnly": false,
       "also_known_as": [],
       "regions": [
         "Gujarat"
