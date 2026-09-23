@@ -1156,6 +1156,7 @@
       "name": "Bohri (Hindu)",
       "name_gu": "બોહ્રી (હિંદુ)",
       "category": "General",
+      "villageOnly": false,
       "also_known_as": [],
       "regions": [
         "Surat",
